@@ -1,0 +1,13 @@
+J:\Stuff\source\repos\UltraAdventure\UltraAdventure\bin\Debug\UltraAdventure.exe.config
+J:\Stuff\source\repos\UltraAdventure\UltraAdventure\bin\Debug\UltraAdventure.exe
+J:\Stuff\source\repos\UltraAdventure\UltraAdventure\bin\Debug\UltraAdventure.pdb
+J:\Stuff\source\repos\UltraAdventure\UltraAdventure\bin\Debug\Engine.dll
+J:\Stuff\source\repos\UltraAdventure\UltraAdventure\bin\Debug\Engine.pdb
+J:\Stuff\source\repos\UltraAdventure\UltraAdventure\obj\Debug\UltraAdventure.csproj.AssemblyReference.cache
+J:\Stuff\source\repos\UltraAdventure\UltraAdventure\obj\Debug\UltraAdventure.UltraAdventure.resources
+J:\Stuff\source\repos\UltraAdventure\UltraAdventure\obj\Debug\UltraAdventure.Properties.Resources.resources
+J:\Stuff\source\repos\UltraAdventure\UltraAdventure\obj\Debug\UltraAdventure.csproj.GenerateResource.cache
+J:\Stuff\source\repos\UltraAdventure\UltraAdventure\obj\Debug\UltraAdventure.csproj.CoreCompileInputs.cache
+J:\Stuff\source\repos\UltraAdventure\UltraAdventure\obj\Debug\UltraAdv.F9050FD0.Up2Date
+J:\Stuff\source\repos\UltraAdventure\UltraAdventure\obj\Debug\UltraAdventure.exe
+J:\Stuff\source\repos\UltraAdventure\UltraAdventure\obj\Debug\UltraAdventure.pdb

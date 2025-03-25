@@ -1,0 +1,6 @@
+J:\Stuff\source\repos\UltraAdventure\Engine\bin\Debug\Engine.dll
+J:\Stuff\source\repos\UltraAdventure\Engine\bin\Debug\Engine.pdb
+J:\Stuff\source\repos\UltraAdventure\Engine\obj\Debug\Engine.csproj.AssemblyReference.cache
+J:\Stuff\source\repos\UltraAdventure\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+J:\Stuff\source\repos\UltraAdventure\Engine\obj\Debug\Engine.dll
+J:\Stuff\source\repos\UltraAdventure\Engine\obj\Debug\Engine.pdb
